@@ -2,7 +2,7 @@
     <div>
         <div class="flex-group-sb form-group-50">
             <label class="label-disabled" for="id" v-html="vocab.descriptors.id">ID</label>
-            <input type="text" class="input-disabled " v-model="vocab.id">
+            <input type="text" class="input-unstyled " v-model="vocab.id">
         </div>
 
         <div class="flex-group-sb form-group-50">
